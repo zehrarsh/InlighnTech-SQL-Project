@@ -1,6 +1,6 @@
 # InlighnTech-SQL-Project
 ![Alt text](https://github.com/zehrarsh/InlighnTech-SQL-Project/blob/main/SQL1.png)
-![Alt text](image_path)
+![Alt text](https://github.com/zehrarsh/InlighnTech-SQL-Project/blob/main/SQL2.png)
 ![Alt text](image_path)
 ![Alt text](image_path)
 ![Alt text](image_path)
