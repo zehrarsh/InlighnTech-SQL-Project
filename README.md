@@ -1,7 +1,7 @@
 # InlighnTech-SQL-Project
 ![Alt text](https://github.com/zehrarsh/InlighnTech-SQL-Project/blob/main/SQL1.png)
 ![Alt text](https://github.com/zehrarsh/InlighnTech-SQL-Project/blob/main/SQL2.png)
-![Alt text](image_path)
+![Alt text](https://github.com/zehrarsh/InlighnTech-SQL-Project/blob/main/SQL3.png)
 ![Alt text](image_path)
 ![Alt text](image_path)
 Detailed Analysis about prevailing trends that influence consumer behavior and shape in the sonic palette of Musics and to provide a comprehensive understanding of the factors contributing to an artist's success.
