@@ -1,5 +1,5 @@
 # InlighnTech-SQL-Project
-![Alt text](image_path)
+![Alt text]([image_path](https://github.com/zehrarsh/InlighnTech-SQL-Project/blob/main/SQL1.png))
 ![Alt text](image_path)
 ![Alt text](image_path)
 ![Alt text](image_path)
