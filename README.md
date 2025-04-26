@@ -3,7 +3,7 @@
 ![Alt text](https://github.com/zehrarsh/InlighnTech-SQL-Project/blob/main/SQL2.png)
 ![Alt text](https://github.com/zehrarsh/InlighnTech-SQL-Project/blob/main/SQL3.png)
 ![Alt text](https://github.com/zehrarsh/InlighnTech-SQL-Project/blob/main/SQL4.png)
-![Alt text](image_path)
+![Alt text](https://github.com/zehrarsh/InlighnTech-SQL-Project/blob/main/SQL5.png)
 Detailed Analysis about prevailing trends that influence consumer behavior and shape in the sonic palette of Musics and to provide a comprehensive understanding of the factors contributing to an artist's success.
 
 Project Overview: Welcome to the Music Data Analysis SQL project! This project aims to analyze and extract insights from a music dataset using SQL queries. By leveraging SQL, we can efficiently retrieve, manipulate, and analyze various aspects of music data, including artist information, song details, album tracks, user interactions, and more. The dataset used in this project contains the following tables: Artists: Contains information about music artists, including artist ID, name, genre, and nationality. Albums: Stores details of music albums, including album ID, title, release year, and artist ID. Tracks: Represents individual tracks within albums, including track ID, title, duration, and album ID. Users: Provides information about users interacting with the music platform, including user ID, username, and registration date. Listening History: Logs user interactions with tracks, including play timestamps, track IDs, and user IDs.
